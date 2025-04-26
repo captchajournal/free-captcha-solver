@@ -20,7 +20,7 @@ This service is fully automated and doesn’t require human intervention, making
 
 Getting started is easy—no credit card required for testing—and pricing is incredibly competitive, starting at just $0.01 per 1,000 solves. Backed by a robust engineering team and continuous AI improvements, noCaptchaAI is quickly becoming the go-to CAPTCHA solver for developers and businesses worldwide.
 
-[![noCaptchaAI](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/nocaptchaai.png)](https://noCaptchaAI.com)
+[![noCaptchaAI](https://raw.githubusercontent.com/captchajournal/captcha_solver/refs/heads/main/best%20captcha%20solver/nocaptchaai.jpg)](https://noCaptchaAI.com)
 
 ---
 
